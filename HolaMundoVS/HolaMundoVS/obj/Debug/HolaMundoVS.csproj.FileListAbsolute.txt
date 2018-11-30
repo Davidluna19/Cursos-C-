@@ -1,0 +1,7 @@
+D:\Repo\Cursos C#\HolaMundoVS\HolaMundoVS\bin\Debug\HolaMundoVS.exe.config
+D:\Repo\Cursos C#\HolaMundoVS\HolaMundoVS\bin\Debug\HolaMundoVS.exe
+D:\Repo\Cursos C#\HolaMundoVS\HolaMundoVS\bin\Debug\HolaMundoVS.pdb
+D:\Repo\Cursos C#\HolaMundoVS\HolaMundoVS\obj\Debug\HolaMundoVS.csprojAssemblyReference.cache
+D:\Repo\Cursos C#\HolaMundoVS\HolaMundoVS\obj\Debug\HolaMundoVS.csproj.CoreCompileInputs.cache
+D:\Repo\Cursos C#\HolaMundoVS\HolaMundoVS\obj\Debug\HolaMundoVS.exe
+D:\Repo\Cursos C#\HolaMundoVS\HolaMundoVS\obj\Debug\HolaMundoVS.pdb
