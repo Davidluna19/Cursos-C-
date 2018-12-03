@@ -1,0 +1,7 @@
+D:\Repo\Cursos C#\CursoCsharpConVsDesde0\Valoraciones\bin\Debug\Valoraciones.pdb
+D:\Repo\Cursos C#\CursoCsharpConVsDesde0\Valoraciones\obj\Debug\Valoraciones.csprojAssemblyReference.cache
+D:\Repo\Cursos C#\CursoCsharpConVsDesde0\Valoraciones\obj\Debug\Valoraciones.csproj.CoreCompileInputs.cache
+D:\Repo\Cursos C#\CursoCsharpConVsDesde0\Valoraciones\obj\Debug\Valoraciones.pdb
+D:\Repo\Cursos C#\CursoCsharpConVsDesde0\Valoraciones\bin\Debug\Valoraciones.exe.config
+D:\Repo\Cursos C#\CursoCsharpConVsDesde0\Valoraciones\bin\Debug\Valoraciones.exe
+D:\Repo\Cursos C#\CursoCsharpConVsDesde0\Valoraciones\obj\Debug\Valoraciones.exe

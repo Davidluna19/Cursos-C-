@@ -10,8 +10,9 @@ namespace HolaMundoVS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hoy es: " + DateTime.Today.Day + " del " + DateTime.Today.Month);
+            string nombre = args[0];
             Console.WriteLine("Hola Mundo!");
+            Console.WriteLine(nombre + " hoy es: " + DateTime.Today.Day + " del " + DateTime.Today.Month);
             Console.ReadKey();
         }
     }
